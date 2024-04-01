@@ -1,0 +1,88 @@
+.container {
+    text-align: center;
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 7em;
+    cursor: pointer;
+    display: block;
+}
+.characters,.locations,.episodes{
+    margin-top: 20px;
+}
+.pagination{
+    margin-top: 20px;
+}
+h1 {
+    font-size: 3em;
+    color: black;
+}
+#header{
+    background-image:url("Unknown-2.jpg");
+}
+#charactersBtn {
+    background-image: url("Unknown-3.jpg");
+    color: white;
+    width:1400px;
+    height: 200px;
+}
+#locationsBtn {
+    background-image: url("Rick\ and\ Morty_\ 80\ Character\ Design\ &\ Background\ Collection.jpg");
+    width: 1400px;
+    height: 200px;
+}
+#episodesBtn{
+    width: 1400px;
+    background-image: url("Rick\ and\ Morty.jpg");
+    height: 200px;
+}
+#cardGroup {
+    display: flexbox;
+    background-color: white;
+}
+#characters {
+    background-image: url("Unknown-3.jpg");
+    color: white;
+}
+h2 {
+    font-family: 'lucida sans';
+}
+.thing {
+    background-image: url("Rick\ and\ Morty.jpg");
+    color: white;
+}
+.containerfluid {
+    column-count: 2;
+    column-rule: 3px solid #000;
+}
+.card {
+    margin-bottom: 10px;
+}
+.airdate {
+    color: greenyellow;
+}
+.episode {
+    border-bottom: 1px solid #000;
+    margin-bottom: 100px;
+}
+.thingy{
+    background-image: url("Rick\ and\ Morty_\ 80\ Character\ Design\ &\ Background\ Collection.jpg");
+    text-align: center;
+}
+.locationname{
+    color: green;
+
+}
+.typeoflocation{
+    font-family: 'monospace';
+
+}
+.typeofdimension{
+
+}
